@@ -98,11 +98,9 @@ function t_4(){
 
 
 function hh(){
-  /*var hud = document.getElementById('g').nodeValue;
-  */
 var hud = location
-
-   hud.reload();
+ hud.reload();
+ 
 }
 
 /*
