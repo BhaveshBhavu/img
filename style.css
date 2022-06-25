@@ -1,0 +1,241 @@
+body {
+    font-size: 15pt;
+    margin:0 ;
+    padding: 0;
+
+}
+
+.hed{
+  position: absolute;
+  left: 1%;
+  margin: 5px;
+  border: solid ;
+  width: 375px;
+  height:49px;
+   font-size: 40px;
+   background-color: #FFB800FA /*#00FFF1  */;
+} 
+
+
+
+h{
+  margin-left: 10px;
+  margin-top: 0px;
+}
+
+
+p{
+  font-size: 30px;
+}
+
+
+
+.incolor{  
+  background-color:#3849FF;
+  border-color: black;
+  border-radius: 100px;
+  margin-left: 50px;
+}
+
+b{
+  margin-left: 30px;
+}
+
+y{
+  margin-left: 0px;
+}
+
+
+h1 h3{
+  margin-top: 49px;
+  color: white;
+}
+
+button{
+  margin-top: 41px;
+  background-color:green;
+  padding: 15px;
+  outline: none;
+  border-color: #1B1B26CF ;
+  border-radius: 15px;
+  color: black;
+  font-size: 20px;
+  margin-right: 25px;
+  float: right;
+}
+
+button:hover {
+  transition: 0.2s;
+  
+  background-color:#42445A00;
+
+}
+
+.bt{
+  margin-top: 20px;
+}
+
+
+/*next*/
+
+
+ .img_{
+  border: solid black;
+  margin: 5px;
+  border: solid black;
+  width: 365px;
+  height: 400px;
+  
+}
+
+
+.menu_box{
+  margin:0 ;
+  padding:0 ;
+  position: absolute;
+  bottom: 0;
+  border: solid ;
+  width: 395px;
+  height:100px;
+   font-size: 20px;
+   background-color:#FFB800FA /*#00FFF1*/;
+}
+
+input{
+  margin-left: 20px;
+  margin-top: 8px;
+  width: 100px;
+  height: 35px;
+  font-size: 25px;
+}
+
+.yu{
+  margin: 30px;
+margin-top: 5px;
+}
+
+.mini_box{
+  font-size: 21px;
+  margin: 2px;
+  position: absolute;
+  left: 180px;
+  background-color: #42445A00;
+  width: 200px;
+  height: 50px;
+}
+
+h4{
+  position: absolute;
+  
+}
+
+.menu{
+  position: absolute;
+  top: 5px;
+  left: 330px;
+  width: 40px;
+  height: 40px;
+  background-color: red;
+}
+
+.menu_a{
+  display: block;
+}
+
+
+
+
+.hun{
+  width: 365px;
+  height: 475px;
+}
+
+
+.oo{
+  display: none;
+  height: 70px;
+  background-color:  #FFB800FA/*#473B2DFC  */;
+border: 1px solid black;
+  transition: 0.5s;
+}
+
+.opan{
+display: block;
+}
+
+
+
+.whit{
+  width: 350px;
+  height: 250px;
+}
+
+
+.menu_is_menu{
+  display: none;
+  position: absolute;
+  top: 145px;
+  background-color:#FFB800FA/* #42445A */;
+  width: 373px;
+  height:420px;
+  margin: 6px;
+  margin-left: 10px;
+  border: 1px solid black;
+}
+
+.pan{
+  display: block;
+}
+
+table{
+  border-spacing: 10px;
+}
+
+td{
+  border-radius : 10px;/*
+  background-image: url("M/1.jpg");
+  background-size: cover;*/
+  width: 100px;
+  height: 80px;
+  border: 1px solid black;
+}
+
+
+  /* menu thim */
+
+.t_1{
+  background-color: #00FFF1 ;
+}
+
+.t_2{
+  background-color: #E6E7E700;
+}
+
+.t_3{
+  background-color:  #99ff66;
+}
+
+#men{
+  background-color: ;
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+span{
+  position: absolute;
+  top: -29px;
+  right: 30px;
+  font-size: 90px;
+}
+
+/*
+
+
+bhaveshabcd1234bhavu@gmail.com  
+
+9106885928h
+
+*/
